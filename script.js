@@ -4,3 +4,7 @@ $(function(){
 $(function(){
     $("#footer").load("footer.html"); 
   });
+  $(function(){
+    $("#modalContent").load("modal.html"); 
+  });
+
