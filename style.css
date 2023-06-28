@@ -27,14 +27,14 @@ body{
   /* Modal Content */
   .modal-content {
     background-color: #fefefe;
-    margin: auto;
+    margin: auto auto auto auto;
     padding: 20px;
     border: 1px solid #888;
     width: 90%;
     height: 88vh;
     overflow-y: auto;
   }
-  .modal{
+  #modalContent{
     overflow-y: initial;
   }
   /* The Close Button */
