@@ -30,9 +30,13 @@ body{
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%;
+    width: 90%;
+    height: 88vh;
+    overflow-y: auto;
   }
-  
+  .modal{
+    overflow-y: initial;
+  }
   /* The Close Button */
   .close {
     color: #aaaaaa;
