@@ -58,3 +58,7 @@ body{
   .my-box-shadow-black{
     box-shadow: 5px 10px 5px black;
   }
+
+  .my-box-shadow-lightgrey{
+    box-shadow: 3px 6px lightgray;
+  }
