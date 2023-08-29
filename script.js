@@ -7,4 +7,7 @@ $(function(){
   $(function(){
     $("#modalContent").load("modal.html"); 
   });
+  $(function(){
+    $("#JournalmodalContent").load("JournalModal.html"); 
+  });
 
